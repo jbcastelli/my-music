@@ -13,6 +13,9 @@
   "Usuario": {
     "nombre": "string",
     "apellido": "string",
+    "universidad": "string",
+    "fechaNacimiento": "date",
+    "materias": "Comment[]"
     "edad": "int",
     "post": "Post"
   }  
