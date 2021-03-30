@@ -13,6 +13,7 @@
   "Usuarios":{
     "Nombre": "string",
     "Apellidos": "string",
-    "Edad": "int"
+    "Edad": "int",
+    "post": "Post"
   }  
 }
