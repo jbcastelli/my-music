@@ -10,7 +10,7 @@
     "body": "string",
     "post": "Post"
   },
-  "Usuarios":{
+  "Usuarios": {
     "Nombre": "string",
     "Apellidos": "string",
     "Edad": "int",
