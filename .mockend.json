@@ -21,6 +21,7 @@
   },
   "Materia": {
     "nombre": "string",
-    "creditos": "int"
+    "creditos": "int",
+    "codigo": "Usuario"
   }  
 }
