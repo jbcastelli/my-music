@@ -11,9 +11,9 @@
     "post": "Post"
   },
   "Usuarios": {
-    "Nombre": "string",
-    "Apellidos": "string",
-    "Edad": "int",
-    "post": "Post"
+    "name": "string",
+    "lastname": "string",
+    "age": "int",
+    "post": "User"
   }  
 }
