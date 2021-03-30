@@ -15,8 +15,12 @@
     "apellido": "string",
     "universidad": "string",
     "fechaNacimiento": "date",
-    "materias": "array[string]",
+    "materias": "Materia[]",
     "edad": "int",
     "post": "Post"
+  },
+  "Materia": {
+    "nombre": "string",
+    "creditos": "int"
   }  
 }
