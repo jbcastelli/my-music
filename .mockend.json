@@ -15,7 +15,7 @@
     "apellido": "string",
     "universidad": "string",
     "fechaNacimiento": "date",
-    "materias": "array[3]",
+    "materias": "array[string]",
     "edad": "int",
     "post": "Post"
   }  
