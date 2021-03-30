@@ -1,5 +1,5 @@
 {
-  "User": {
+  "Post": {
     "title": "string",
     "views": "int",
     "published": "boolean",
@@ -10,7 +10,7 @@
     "body": "string",
     "post": "Post"
   },
-  "Users": {
+  "User": {
     "name": "string",
     "lastname": "string",
     "age": "int",
