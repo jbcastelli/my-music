@@ -10,10 +10,10 @@
     "body": "string",
     "post": "Post"
   },
-  "User": {
-    "name": "string",
+  "Usuario": {
+    "nombre": "string",
     "apellido": "string",
-    "age": "int",
+    "edad": "int",
     "post": "Post"
   }  
 }
