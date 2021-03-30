@@ -12,7 +12,7 @@
   },
   "Usuarios":{
     "Nombre": "string",
-    "Apellidos":: "string",
+    "Apellidos": "string",
     "Edad": "int"
   }  
 }
