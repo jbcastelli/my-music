@@ -12,7 +12,7 @@
   },
   "User": {
     "name": "string",
-    "lastname": "string",
+    "apellido": "string",
     "age": "int",
     "post": "Post"
   }  
